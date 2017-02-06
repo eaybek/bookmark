@@ -1,3 +1,4 @@
+#!/bin/bash
 export bookmark_decision=y;
 export bookmark_path=".";
 if ! [[ -f ~/.bookmarks ]];then
